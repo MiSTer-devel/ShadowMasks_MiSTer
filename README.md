@@ -49,3 +49,8 @@ r,r,g,g,b,b
 g,b,b,r,r,g
 g,b,b,r,r,g
 ```
+## Create Your Own
+
+With the tool found here: [MiSTer - Shadow Mask Editor](https://bool.space/mister/ShadowMaskEditor.htm)
+
+Tool provided by [Tonurics](https://github.com/tonurics)
