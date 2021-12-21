@@ -1,6 +1,3 @@
-# MiSTer FPGA Shadow Mask V2
-# Tested at 1440p
-
 v2
 
 14,6
