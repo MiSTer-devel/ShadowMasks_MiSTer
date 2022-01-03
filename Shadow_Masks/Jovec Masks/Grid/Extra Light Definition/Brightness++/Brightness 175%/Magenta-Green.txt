@@ -1,0 +1,8 @@
+v2
+
+6,4
+
+0ca,0ca,0ca,5ca,2ca,0ca
+5ca,2ca,0ca,5ca,2ca,0ca
+5ca,2ca,0ca,0ca,0ca,0ca
+5ca,2ca,0ca,5ca,2ca,0ca
