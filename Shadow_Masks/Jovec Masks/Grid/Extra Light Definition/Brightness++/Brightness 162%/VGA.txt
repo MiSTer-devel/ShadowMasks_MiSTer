@@ -1,0 +1,8 @@
+v2
+
+6,4
+
+4aa,4aa,2aa,2aa,1aa,1aa
+4aa,4aa,2aa,2aa,1aa,1aa
+2aa,1aa,1aa,4aa,4aa,2aa
+2aa,1aa,1aa,4aa,4aa,2aa

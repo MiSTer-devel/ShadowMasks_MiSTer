@@ -1,0 +1,10 @@
+v2
+
+14,6
+
+0aa,0aa,0aa,0aa,0aa,0aa,0aa,4aa,4aa,2aa,2aa,1aa,1aa,0aa
+4aa,4aa,2aa,2aa,1aa,1aa,0aa,4aa,4aa,2aa,2aa,1aa,1aa,0aa
+4aa,4aa,2aa,2aa,1aa,1aa,0aa,4aa,4aa,2aa,2aa,1aa,1aa,0aa
+4aa,4aa,2aa,2aa,1aa,1aa,0aa,0aa,0aa,0aa,0aa,0aa,0aa,0aa
+4aa,4aa,2aa,2aa,1aa,1aa,0aa,4aa,4aa,2aa,2aa,1aa,1aa,0aa
+4aa,4aa,2aa,2aa,1aa,1aa,0aa,4aa,4aa,2aa,2aa,1aa,1aa,0aa

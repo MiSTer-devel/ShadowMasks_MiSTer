@@ -1,0 +1,10 @@
+v2
+
+12,6
+
+0ca,0ca,0ca,0ca,0ca,0ca,4ca,4ca,2ca,2ca,1ca,1ca
+4ca,4ca,2ca,2ca,1ca,1ca,4ca,4ca,2ca,2ca,1ca,1ca
+4ca,4ca,2ca,2ca,1ca,1ca,4ca,4ca,2ca,2ca,1ca,1ca
+4ca,4ca,2ca,2ca,1ca,1ca,0ca,0ca,0ca,0ca,0ca,0ca
+4ca,4ca,2ca,2ca,1ca,1ca,4ca,4ca,2ca,2ca,1ca,1ca
+4ca,4ca,2ca,2ca,1ca,1ca,4ca,4ca,2ca,2ca,1ca,1ca
