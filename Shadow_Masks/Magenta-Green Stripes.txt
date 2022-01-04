@@ -1,6 +1,0 @@
-# width,height
-2,1
-
-# lut data
-5,2
-
