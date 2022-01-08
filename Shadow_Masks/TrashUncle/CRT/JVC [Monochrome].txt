@@ -24,7 +24,7 @@ v2
 70f,70f,00c,70f,70f,00c
 00c,00c,00c,70f,70f,00c
 
-#Resolution=1440
+Resolution=1440
 v2
 6,6
 70f,70f,00c,70f,70f,00c
