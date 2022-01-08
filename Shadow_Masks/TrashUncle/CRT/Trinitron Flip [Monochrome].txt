@@ -1,0 +1,40 @@
+####
+# Name: Trinitron
+# Author: TrashUncle
+# Type: CRT
+# Genre: Realistic
+# Sub-Pixel Layout: Monochrome
+####
+v2
+1,1
+70f 
+
+Resolution=720
+v2
+3,2
+02a,748,748
+02a,02a,72a
+
+
+Resolution=1080
+v2
+3,5
+02a,748,748
+02a,748,748
+02a,748,748
+02a,72a,748
+02a,02a,72a
+
+
+
+Resolution=1440
+v2
+3,6
+02a,748,748
+02a,748,748
+02a,748,748
+02a,748,748
+02a,72a,748
+02a,02a,72a
+
+
