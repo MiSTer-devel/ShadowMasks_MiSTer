@@ -15,7 +15,7 @@ v2
 #70f,70f,00c,00c
 #00c,00c,70f,70f
 
-Resolution=1200
+Resolution=1080
 v2
 6,5
 70f,70f,00c,00c,00c,00c
