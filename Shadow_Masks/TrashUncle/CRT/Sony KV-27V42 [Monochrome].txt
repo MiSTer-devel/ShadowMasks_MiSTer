@@ -14,22 +14,6 @@ v2
 02a,02a,02a,02a,02a
 02a,74c,74c,74c,74c
 
-Resolution=1080
-#Had to make this double size, as I was unable to recreate this at 5x height.
-#May look too large.  I suggest 4x or 6x integer scale.
-v2
-14,10
-00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c
-00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c
-74c,74c,74c,74c,74c,74c,74c,74c,74c,74c,00c,00c,74c,74c
-74c,74c,74c,74c,74c,74c,74c,74c,74c,74c,00c,00c,74c,74c
-74c,74c,74c,74c,74c,74c,74c,74c,74c,74c,00c,00c,74c,74c
-00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c
-00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c,00c
-00c,00c,74c,74c,74c,74c,74c,74c,74c,74c,74c,74c,74c,74c
-00c,00c,74c,74c,74c,74c,74c,74c,74c,74c,74c,74c,74c,74c
-00c,00c,74c,74c,74c,74c,74c,74c,74c,74c,74c,74c,74c,74c
-
 Resolution=1201
 v2
 7,6
