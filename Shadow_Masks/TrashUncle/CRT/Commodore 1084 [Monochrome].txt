@@ -5,8 +5,6 @@
 # Genre: Realistic
 # Sub-Pixel Layout: Monochrome
 ####
-
-Resolution=0
 v2
 6,4
 00c,00c,00c,00c,74c,00c
