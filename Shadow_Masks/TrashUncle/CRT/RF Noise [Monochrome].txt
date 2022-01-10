@@ -1,0 +1,32 @@
+####
+# Name: RF Noise
+# Author: TrashUncle
+# Type: CRT
+# Genre: Realistic
+# Sub-Pixel Layout: Monochrome
+####
+v2
+6,4
+74c,00c,70e,00c,73a,775
+74c,775,74c,00c,74c,00c
+00c,74c,00c,70e,73a,70a
+70e,74c,775,74c,00c,74c
+
+Resolution=1080
+v2
+8,5
+74c,00c,74c,00c,70f,74c,74c,726
+72a,74c,726,74c,74c,00c,74c,775
+00c,72a,74c,775,00c,74c,72a,70f
+00c,70f,775,74c,726,74c,72a,74c
+775,74c,72a,74c,70f,74c,00c,726
+
+Resolution=1440
+v2
+9,6
+74c,70d,74c,00c,74c,77a,71f,74c,70d
+726,00c,74c,726,71f,77a,00c,74c,00c
+74c,71f,74c,70d,74c,71f,74c,726,77a
+00c,70d,74c,00c,77a,726,74c,00c,71f
+726,74c,77a,74c,726,74c,77a,74c,726
+74c,71f,74c,74c,70d,00c,74c,71f,74c
