@@ -1,3 +1,9 @@
+####
+# Name: Consumer-1
+# Author: Mike Chi (Converted by TrashUncle)
+# Type: CRT
+# Sub-Pixel Layout: Monochrome
+####
 v2
 6,4
 787,70f,70b,787,70f,70b
