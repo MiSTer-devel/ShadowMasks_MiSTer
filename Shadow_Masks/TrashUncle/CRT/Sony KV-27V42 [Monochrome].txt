@@ -1,0 +1,23 @@
+####
+# Name: Sony KV-27V42
+# Author: TrashUncle
+# Type: CRT
+# Genre: Realistic
+# Sub-Pixel Layout: Monochrome
+####
+v2
+5,4
+02a,02a,02a,02a,02a
+74c,74c,74c,02a,74c
+02a,02a,02a,02a,02a
+02a,74c,74c,74c,74c
+
+Resolution=1200
+v2
+7,6
+02a,02a,02a,02a,02a,02a,02a
+74c,74c,74c,74c,02a,74c,74c
+74c,74c,74c,74c,02a,74c,74c
+02a,02a,02a,02a,02a,02a,02a
+02a,74c,74c,74c,74c,74c,74c
+02a,74c,74c,74c,74c,74c,74c
