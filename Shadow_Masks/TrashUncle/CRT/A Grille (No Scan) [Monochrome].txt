@@ -1,5 +1,5 @@
 ####
-# Name: A. Grille (No Scan)
+# Name: A Grille (No Scan)
 # Author: TrashUncle
 # Type: CRT
 # Genre: Realistic
