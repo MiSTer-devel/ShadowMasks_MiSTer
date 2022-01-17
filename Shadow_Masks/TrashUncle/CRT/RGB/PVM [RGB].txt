@@ -1,5 +1,5 @@
 ####
-# Name: Generic PVM
+# Name: PVM
 # Author: TrashUncle
 # Type: CRT
 # Genre: Realistic
