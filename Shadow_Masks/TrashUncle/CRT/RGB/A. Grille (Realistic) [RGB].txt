@@ -5,8 +5,6 @@
 # Genre: Realistic
 # Sub-Pixel Layout: RGB
 ####
-
-Resolution=0
 v2
 4,1
 44c,24c,14c,04c
