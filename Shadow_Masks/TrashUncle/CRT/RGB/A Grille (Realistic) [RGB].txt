@@ -1,5 +1,5 @@
 ####
-# Name: A. Grille (Realistic)
+# Name: A Grille (Realistic)
 # Author: TrashUncle
 # Type: CRT
 # Genre: Realistic
