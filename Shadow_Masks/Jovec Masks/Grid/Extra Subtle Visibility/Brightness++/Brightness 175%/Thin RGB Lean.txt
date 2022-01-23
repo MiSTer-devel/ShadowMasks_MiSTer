@@ -1,8 +1,0 @@
-v2
-
-6,4
-
-0ca,0ca,0ca,4ca,2ca,1ca
-4ca,2ca,1ca,4ca,2ca,1ca
-4ca,2ca,1ca,0ca,0ca,0ca
-4ca,2ca,1ca,4ca,2ca,1ca

@@ -1,8 +1,0 @@
-v2
-
-6,4
-
-0aa,0aa,0aa,4aa,2aa,1aa
-4aa,2aa,1aa,4aa,2aa,1aa
-4aa,2aa,1aa,0aa,0aa,0aa
-4aa,2aa,1aa,4aa,2aa,1aa

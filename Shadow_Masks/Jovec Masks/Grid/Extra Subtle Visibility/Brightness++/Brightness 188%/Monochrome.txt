@@ -1,8 +1,0 @@
-v2
-
-6,4
-
-0ea,0ea,0ea,7ea,7ea,0ea
-7ea,7ea,0ea,7ea,7ea,0ea
-7ea,7ea,0ea,0ea,0ea,0ea
-7ea,7ea,0ea,7ea,7ea,0ea
