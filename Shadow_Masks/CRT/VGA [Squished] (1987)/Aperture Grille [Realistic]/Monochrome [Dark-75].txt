@@ -1,0 +1,11 @@
+####
+# Author: Jovec
+# Name: Monochrome
+# Type: CRT
+# Dots (WxH): 1x1
+####
+
+resolution=0
+v2
+3,1
+704,704,004

@@ -1,0 +1,12 @@
+####
+# Author: Jovec
+# Name: MG
+# Type: CRT
+# Dots (WxH): 2x1
+####
+
+resolution=0
+v2
+4,2
+068,068,568,268
+568,268,068,068
