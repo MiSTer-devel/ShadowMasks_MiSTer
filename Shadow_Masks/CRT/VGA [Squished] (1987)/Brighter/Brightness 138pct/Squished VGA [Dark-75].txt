@@ -1,0 +1,12 @@
+####
+# Author: Jovec
+# Name: Squished VGA
+# Type: CRT
+# Dots (WxH): 2x1
+####
+
+resolution=0
+v2
+6,2
+464,464,264,264,164,164
+264,164,164,464,464,264

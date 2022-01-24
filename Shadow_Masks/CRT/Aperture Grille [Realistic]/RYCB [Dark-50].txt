@@ -1,0 +1,12 @@
+####
+# Author: Jovec
+# Name: RYCB
+# Type: CRT
+# Genre: Realistic
+# Dots (WxH): 1x1
+####
+
+resolution=0
+v2
+4,1
+408,608,308,108
