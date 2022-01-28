@@ -1,5 +1,5 @@
 ####
-# Name: Mono Stagger (Consumer)
+# Name: Monochrome Stripe (AG)
 # Author: TrashUncle
 # Type: CRT
 # Genre: Realistic
@@ -8,6 +8,5 @@
 
 Resolution=0
 v2
-4,2
-72e,71f,70f,73d
-73d,72e,71f,70f
+3,1
+73d,72e,71f

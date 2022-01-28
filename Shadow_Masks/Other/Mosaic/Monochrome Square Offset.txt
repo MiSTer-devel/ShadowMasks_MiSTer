@@ -1,5 +1,5 @@
 ####
-# Name: Mono Block
+# Name: Monochrome Square Offset
 # Author: TrashUncle
 # Type: CRT
 # Genre: Realistic
@@ -8,6 +8,8 @@
 
 Resolution=0
 v2
-2,2
-75d,70f
-70f,75d
+4,4
+75d,75d,73f,73f
+75d,75d,73f,73f
+73f,73f,75d,75d
+73f,73f,75d,75d
