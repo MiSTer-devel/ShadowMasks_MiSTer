@@ -1,5 +1,5 @@
 ####
-# Name: Nintendo Game Boy Advanced SP
+# Name: Nintendo Game Boy Advance SP
 # Author: Tonurics
 # Type: LCD
 # Genre: Handheld
