@@ -1,0 +1,15 @@
+####
+# Name: Subtle Sony PVM (B&W Stripe)
+# Author: eltee
+# Type: CRT
+# Genre: PVM
+# Sub-Pixel Layout: Monochrome
+#
+# Information:
+# Gets as close as possible to a native sony PVM look, b&w AG stripes for 1080p.
+####
+
+Resolution=0
+v2
+2,1
+72a,00f

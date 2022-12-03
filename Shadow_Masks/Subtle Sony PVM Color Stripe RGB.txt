@@ -1,0 +1,15 @@
+####
+# Name: Subtle Sony PVM (Color Stripe)
+# Author: eltee
+# Type: CRT
+# Genre: PVM
+# Sub-Pixel Layout: RGB
+#
+# Information:
+# Gets as close as possible to a native sony PVM look, color AG stripes for 1440p.
+####
+
+Resolution=0
+v2
+3,1
+40f,20f,10f
