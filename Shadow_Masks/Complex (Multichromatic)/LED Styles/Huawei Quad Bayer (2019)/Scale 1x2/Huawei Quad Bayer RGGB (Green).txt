@@ -1,5 +1,5 @@
 ####
-# Name: Huawei Quad Bayer RGGB (Green) [Mirrored]
+# Name: Huawei Quad Bayer RGGB (Green)
 # Author: Tonurics
 # Type: LED
 # Genre: Mosaic
